@@ -1,0 +1,2 @@
+D:\00_GamesXNA\00_WORK\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1TEMP\00_XNA\TankGame\TankGame\TankGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
