@@ -24,3 +24,17 @@ E:\1TEMP\00_XNA\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.exe
 E:\1TEMP\00_XNA\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.pdb
 E:\1TEMP\00_XNA\TankGame\TankGame\TankGame\bin\x86\Debug\Content\Effect.xnb
 E:\1TEMP\00_XNA\TankGame\TankGame\TankGame\bin\x86\Debug\Content\Options.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\BaseMenu.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\ButtonCursor.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\RedButton.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\RedButtonCursor.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\tstTexture.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\Options.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\Content\Effect.xnb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\TankGame.exe
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\bin\x86\Debug\TankGame.pdb
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.exe
+E:\Coding\Projects_XNA\tanki\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.pdb

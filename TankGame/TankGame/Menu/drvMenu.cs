@@ -90,7 +90,7 @@ namespace TankGame
             RedButtonCursor = content.Load<Texture2D>("RedButtonCursor");
             ButtonCursor = content.Load<Texture2D>("ButtonCursor");
 
-            MenuScreenCoord = new Vector2((ScreenRectangle.Width - GameScreenRectangle.Width) / 2, ScreenRectangle.Bottom);
+            MenuScreenCoord = new Vector2((ScreenRectangle.Width - GameScreenRectangle.Width) / 2, (ScreenRectangle.Height - GameScreenRectangle.Height) / 2);
         }
 
         #endregion
@@ -194,6 +194,7 @@ namespace TankGame
                 else
                     menuScreenMove = false;
             }
+
         }
 
         /// <summary>
@@ -264,21 +265,11 @@ namespace TankGame
         /// </summary>
         private void DrawNewGame(SpriteBatch spriteBatch)
         {
-            if (alfaswitch)
-            {
-                alfa = alfa + 0.03f;
-                if (alfa >= 0.9f)
-                    alfaswitch = false;
-            }
+            alfa = alfa + 0.05f;
+            if (alfa > 180)
+                alfa = 0;
 
-            if (!alfaswitch)
-            {
-                alfa = alfa - 0.03f;
-                if (alfa <= 0.01f)
-                    alfaswitch = true;
-            }
-
-            spriteBatch.Draw(RedButton, new Vector2(195, 306), Color.White * alfa);
+            spriteBatch.Draw(RedButton, new Vector2(195, 306), Color.White * ((float)Math.Abs(Math.Sin(alfa))));
             spriteBatch.Draw(RedButtonCursor, new Vector2(236, 347), Color.White);
         }
 
